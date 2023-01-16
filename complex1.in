@@ -1,0 +1,23 @@
+hard
+c
+c
+c
+h
+play 7H
+play 8C
+play 6C
+discard 3S
+play JC
+play QC
+change player2
+discard 3C
+play 5C 
+ragequit
+change player3
+play 6H
+restart
+y
+ragequit
+play 9H
+restart
+ragequit

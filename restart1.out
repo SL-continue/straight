@@ -1,0 +1,27 @@
+Choose ai difficulty
+easy
+hard
+Is Player1 a human (h) or a computer (c)?
+Is Player2 a human (h) or a computer (c)?
+Is Player3 a human (h) or a computer (c)?
+Is Player4 a human (h) or a computer (c)?
+A new round begins. It's Player2's turn to play.
+Cards on the table:
+Club:
+Diamond:
+Heart:
+Spade:
+Your hand: 2C 3C 7C 6D 8D JD QD 7H TH 5S 7S 9S TS
+Legal plays: 7C 7H 7S
+player2's turn to move
+>Do you player1 agree to restart? (y or n)
+restart not agreed
+Cards on the table:
+Club:
+Diamond:
+Heart:
+Spade:
+Your hand: 2C 3C 7C 6D 8D JD QD 7H TH 5S 7S 9S TS
+Legal plays: 7C 7H 7S
+player2's turn to move
+>

@@ -1,0 +1,140 @@
+Choose ai difficulty
+easy
+hard
+Is Player1 a human (h) or a computer (c)?
+Is Player2 a human (h) or a computer (c)?
+Is Player3 a human (h) or a computer (c)?
+Is Player4 a human (h) or a computer (c)?
+A new round begins. It's Player3's turn to play.
+Cards on the table:
+Club:
+Diamond:
+Heart:
+Spade:
+Your hand: QC 3D 4D 5D 7D QD KD 4H 9H 4S 5S 7S 9S
+Legal plays: 7D 7S
+player3's turn to move
+>Player3 plays 7S
+Player4 discards AD
+Player1 plays 7C
+Player2 plays 8S
+Cards on the table:
+Club: 7
+Diamond:
+Heart:
+Spade: 7 8
+Your hand: QC 3D 4D 5D 7D QD KD 4H 9H 4S 5S 9S
+Legal plays: 7D 9S
+player3's turn to move
+>Player4 joined the game!
+Cards on the table:
+Club: 7
+Diamond:
+Heart:
+Spade: 7 8
+Your hand: QC 3D 4D 5D 7D QD KD 4H 9H 4S 5S 9S
+Legal plays: 7D 9S
+player3's turn to move
+>Player3 plays 9S
+Cards on the table:
+Club: 7
+Diamond:
+Heart:
+Spade: 7 8 9
+Your hand: 8C TC KC 6D 8D TD AH 6H JH AS TS QS
+Legal plays: 8C TS
+player4's turn to move
+>Player4 plays TS
+Player1 plays JS
+Player2 plays 6S
+Cards on the table:
+Club: 7
+Diamond:
+Heart:
+Spade: 6 7 8 9 T J
+Your hand: QC 3D 4D 5D 7D QD KD 4H 9H 4S 5S
+Legal plays: 7D 5S
+player3's turn to move
+>Player1 joined the game!
+Cards on the table:
+Club: 7
+Diamond:
+Heart:
+Spade: 6 7 8 9 T J
+Your hand: QC 3D 4D 5D 7D QD KD 4H 9H 4S 5S
+Legal plays: 7D 5S
+player3's turn to move
+> 6C 3H JD 7C TH JS 7H 2C 9D 5H 4C JC 2S
+ 3C AC KH 8S 5C 6S KS 3S 9C 2H 8H 2D QH
+ QD 5S KD 9H 3D 5D 9S 7D 4S QC 4D 4H 7S
+ AD AS TC AH QS TS JH 8D KC TD 8C 6D 6H
+Cards on the table:
+Club: 7
+Diamond:
+Heart:
+Spade: 6 7 8 9 T J
+Your hand: QC 3D 4D 5D 7D QD KD 4H 9H 4S 5S
+Legal plays: 7D 5S
+player3's turn to move
+>Do you player1 agree to restart? (y or n)
+Do you player4 agree to restart? (y or n)
+A new round begins. It's Player2's turn to play.
+Player2 plays 7D
+Cards on the table:
+Club:
+Diamond: 7
+Heart:
+Spade:
+Your hand: 5C JC KC 2D AH 9H JH QH KH 4S 8S QS KS
+Legal plays:
+player3's turn to move
+> JS KD 8H 7H QC 8C 9S 3H 9C 3D 7C 4C AS
+ JD 6C 7S 8D TH TS 6H TC 9D 5S 7D AC 4H
+ 2D QS QH 4S KH 5C KC KS AH JC 8S 9H JH
+ 3C AD 5H QD 6D TD 4D 3S 2S 2H 2C 6S 5D
+Cards on the table:
+Club:
+Diamond: 7
+Heart:
+Spade:
+Your hand: 5C JC KC 2D AH 9H JH QH KH 4S 8S QS KS
+Legal plays:
+player3's turn to move
+>Player3 discards 2D
+Cards on the table:
+Club:
+Diamond: 7
+Heart:
+Spade:
+Your hand: 2C 3C AD 4D 5D 6D TD QD 2H 5H 2S 3S 6S
+Legal plays: 6D
+player4's turn to move
+>Player4 ragequits, A computer will now take over.
+Player4 plays 6D
+Cards on the table:
+Club:
+Diamond: 6 7
+Heart:
+Spade:
+Your hand: 4C 7C 8C 9C QC 3D KD 3H 7H 8H AS 9S JS
+Legal plays: 7C 7H
+player1's turn to move
+>Player1 ragequits, A computer will now take over.
+Player1 plays 7C
+Player2 plays 8D
+Cards on the table:
+Club: 7
+Diamond: 6 7 8
+Heart:
+Spade:
+Your hand: 5C JC KC AH 9H JH QH KH 4S 8S QS KS
+Legal plays:
+player3's turn to move
+>Player1's discards:
+Player1's score: 0 + 0 = 0
+Player2's discards:
+Player2's score: 0 + 0 = 0
+Player3's discards: 2D
+Player3's score: 0 + 2 = 2
+Player4's discards:
+Player4's score: 0 + 0 = 0

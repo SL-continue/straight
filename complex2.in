@@ -1,0 +1,19 @@
+hard
+c
+c
+h
+c
+play 7S
+change player4
+play 9S
+play TS
+change player1
+deck
+restart
+y
+n
+deck
+discard 2D
+ragequit
+ragequit
+quit

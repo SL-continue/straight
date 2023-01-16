@@ -1,0 +1,184 @@
+Choose ai difficulty
+easy
+hard
+Is Player1 a human (h) or a computer (c)?
+Is Player2 a human (h) or a computer (c)?
+Is Player3 a human (h) or a computer (c)?
+Is Player4 a human (h) or a computer (c)?
+A new round begins. It's Player2's turn to play.
+Player2 plays 7H
+Player3 plays 8H
+Player4 plays 6H
+Cards on the table:
+Club:
+Diamond:
+Heart: 6 7 8
+Spade:
+Your hand: 3C 4C 5C 6C KC 6D 7D TD AH 2H 3H KH JS
+Legal plays: 7D
+player1's turn to move
+>Player1 plays 7D
+Player2 plays 9H
+Player3 plays TH
+Player4 plays 8D
+Cards on the table:
+Club:
+Diamond: 7 8
+Heart: 6 7 8 9 T
+Spade:
+Your hand: 3C 4C 5C 6C KC 6D TD AH 2H 3H KH JS
+Legal plays: 6D
+player1's turn to move
+>Player1 plays 6D
+Player2 plays 7S
+Player3 plays JH
+Player4 plays QH
+Cards on the table:
+Club:
+Diamond: 6 7 8
+Heart: 6 7 8 9 T J Q
+Spade: 7
+Your hand: 3C 4C 5C 6C KC TD AH 2H 3H KH JS
+Legal plays: KH
+player1's turn to move
+>Player1 plays KH
+Player2 discards AS
+Player3 plays 7C
+Player4 plays 9D
+Cards on the table:
+Club: 7
+Diamond: 6 7 8 9
+Heart: 6 7 8 9 T J Q K
+Spade: 7
+Your hand: 3C 4C 5C 6C KC TD AH 2H 3H JS
+Legal plays: 6C TD
+player1's turn to move
+>Player1 plays 6C
+Player2 discards 3D
+Player3 plays 6S
+Player4 plays 8C
+Cards on the table:
+Club: 6 7 8
+Diamond: 6 7 8 9
+Heart: 6 7 8 9 T J Q K
+Spade: 6 7
+Your hand: 3C 4C 5C KC TD AH 2H 3H JS
+Legal plays: 5C TD
+player1's turn to move
+>Player1 plays 5C
+Player2 plays 9C
+Player3 plays 5D
+Player4 plays 8S
+Cards on the table:
+Club: 5 6 7 8 9
+Diamond: 5 6 7 8 9
+Heart: 6 7 8 9 T J Q K
+Spade: 6 7 8
+Your hand: 3C 4C KC TD AH 2H 3H JS
+Legal plays: 4C TD
+player1's turn to move
+>Player1 plays TD
+Player2 plays JD
+Player3 plays 5H
+Player4 plays QD
+Cards on the table:
+Club: 5 6 7 8 9
+Diamond: 5 6 7 8 9 T J Q
+Heart: 5 6 7 8 9 T J Q K
+Spade: 6 7 8
+Your hand: 3C 4C KC AH 2H 3H JS
+Legal plays: 4C
+player1's turn to move
+>Player1 plays 4C
+Player2 plays TC
+Player3 plays JC
+Player4 plays KD
+Cards on the table:
+Club: 4 5 6 7 8 9 T J
+Diamond: 5 6 7 8 9 T J Q K
+Heart: 5 6 7 8 9 T J Q K
+Spade: 6 7 8
+Your hand: 3C KC AH 2H 3H JS
+Legal plays: 3C
+player1's turn to move
+>Player1 plays 3C
+Player2 plays QC
+Player3 plays 2C
+Player4 plays 5S
+Cards on the table:
+Club: 2 3 4 5 6 7 8 9 T J Q
+Diamond: 5 6 7 8 9 T J Q K
+Heart: 5 6 7 8 9 T J Q K
+Spade: 5 6 7 8
+Your hand: KC AH 2H 3H JS
+Legal plays: KC
+player1's turn to move
+>Player1 plays KC
+Player2 plays 9S
+Player3 plays TS
+Player4 plays 4S
+Cards on the table:
+Club: 2 3 4 5 6 7 8 9 T J Q K
+Diamond: 5 6 7 8 9 T J Q K
+Heart: 5 6 7 8 9 T J Q K
+Spade: 4 5 6 7 8 9 T
+Your hand: AH 2H 3H JS
+Legal plays: JS
+player1's turn to move
+>Player1 plays JS
+Player2 plays 4D
+Player3 plays AC
+Player4 plays QS
+Cards on the table:
+Club: A 2 3 4 5 6 7 8 9 T J Q K
+Diamond: 4 5 6 7 8 9 T J Q K
+Heart: 5 6 7 8 9 T J Q K
+Spade: 4 5 6 7 8 9 T J Q
+Your hand: AH 2H 3H
+Legal plays:
+player1's turn to move
+>Player1 discards 3H
+Player2 plays 4H
+Player3 plays KS
+Player4 discards AD
+Cards on the table:
+Club: A 2 3 4 5 6 7 8 9 T J Q K
+Diamond: 4 5 6 7 8 9 T J Q K
+Heart: 4 5 6 7 8 9 T J Q K
+Spade: 4 5 6 7 8 9 T J Q K
+Your hand: AH 2H
+Legal plays:
+player1's turn to move
+>Player1 discards 2H
+Player2 plays 3S
+Player3 discards 2D
+Player4 plays 2S
+Cards on the table:
+Club: A 2 3 4 5 6 7 8 9 T J Q K
+Diamond: 4 5 6 7 8 9 T J Q K
+Heart: 4 5 6 7 8 9 T J Q K
+Spade: 2 3 4 5 6 7 8 9 T J Q K
+Your hand: AH
+Legal plays:
+player1's turn to move
+>Player1 discards AH
+Player1's discards: AH 2H 3H
+Player1's score: 0 + 6 = 6
+Player2's discards: 3D AS
+Player2's score: 0 + 4 = 4
+Player3's discards: 2D
+Player3's score: 0 + 2 = 2
+Player4's discards: AD
+Player4's score: 0 + 1 = 1
+A new round begins. It's Player3's turn to play.
+Player3 plays 7S
+Player4 plays 8S
+Cards on the table:
+Club:
+Diamond:
+Heart:
+Spade: 7 8
+Your hand: 4C 2D 4D 6D 7D 5H 6H 9H KH 6S 9S TS JS
+Legal plays: 7D 6S 9S
+player1's turn to move
+>

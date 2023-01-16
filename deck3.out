@@ -1,0 +1,51 @@
+Choose ai difficulty
+easy
+hard
+Is Player1 a human (h) or a computer (c)?
+Is Player2 a human (h) or a computer (c)?
+Is Player3 a human (h) or a computer (c)?
+Is Player4 a human (h) or a computer (c)?
+A new round begins. It's Player4's turn to play.
+Player4 plays 7S
+Cards on the table:
+Club:
+Diamond:
+Heart:
+Spade: 7
+Your hand: 3C 4C 7C QC 4D 5D 8D KD 2H 4H 7H 5S JS
+Legal plays: 7C 7H
+player1's turn to move
+> 5D 3C 4C KD 7H 4D QC 7C JS 5S 8D 4H 2H
+ 3H QH JH 2C KC AC KS 8S 5H 6H 6D 9S 7D
+ 3D 2D JD 9D 9C 8H KH 4S QD AH TH 6C 3S
+ TC 5C 8C AS 7S TD 6S JC QS AD TS 9H 2S
+Cards on the table:
+Club:
+Diamond:
+Heart:
+Spade: 7
+Your hand: 3C 4C 7C QC 4D 5D 8D KD 2H 4H 7H 5S JS
+Legal plays: 7C 7H
+player1's turn to move
+>A new round begins. It's Player1's turn to play.
+Cards on the table:
+Club:
+Diamond:
+Heart:
+Spade:
+Your hand: 2C 4C QC KC 2D 7D 9D KD 4H KH 7S 8S TS
+Legal plays: 7D 7S
+player1's turn to move
+> KC 4C KD 7D KH 2C 4H QC TS 7S 8S 9D 2D
+ JD 6C TH 3C 2H 5D 2S JC 9C 8H AC QS KS
+ JH QH 6D 5H JS 4S 3S AS 9S 3D AH 4D 8C
+ 5S 7H 7C TC 6S 6H TD 8D 9H 3H AD QD 5C
+Cards on the table:
+Club:
+Diamond:
+Heart:
+Spade:
+Your hand: 2C 4C QC KC 2D 7D 9D KD 4H KH 7S 8S TS
+Legal plays: 7D 7S
+player1's turn to move
+>

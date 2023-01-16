@@ -1,0 +1,6 @@
+play_and_discard
+deck1 deck2 deck3
+ragequit1 ragequit2
+change1 change2
+restart1 restart2
+complex1 complex2
